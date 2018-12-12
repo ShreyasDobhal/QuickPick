@@ -1,0 +1,14 @@
+userId	ItemId
+saarthak	laptop
+saarthak	keyboard
+saarthak	earph
+shreyas	mobile
+shreyas	powbank
+shreyas	earph
+prakhar	laptop
+prakhar	keyboard
+kalyan	laptop
+kalyan	powbank
+kalyan	earph
+sudhanshu	keyboard
+sudhanshu	powbank
